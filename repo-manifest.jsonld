@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/jazzband/pathlib2/commit/0ac11b8d697069abea58a8188061f1a1870977af",
       "git:hexsha": "0ac11b8d697069abea58a8188061f1a1870977af",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T23:36:57.424458+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jazzband/pathlib2/commit/a351b52ba76dd9274785ffc96f6594bb09c4e31a",
