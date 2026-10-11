@@ -1,0 +1,11 @@
+{
+  "org": "jazzband",
+  "repo": "pathlib2",
+  "versions": [
+    {
+      "commit": "0ac11b8d697069abea58a8188061f1a1870977af",
+      "tag": "",
+      "parsed_at": "2026-10-11T23:36:57.430469+00:00"
+    }
+  ]
+}
